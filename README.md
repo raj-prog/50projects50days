@@ -1,1 +1,1 @@
-## 50 mini projects using HTML, CSS, JAVASCRIPT
+## 50 mini projects using HTML, CSS & JAVASCRIPT
